@@ -300,14 +300,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/riverdale.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
- 
- 
- 
- 
- 
+
+ <channel>       
+<title><![CDATA[Suhan ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/cesur_ve_guzel_tv_series-101038982-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/suhan.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 <channel>       
 <title><![CDATA[Station 19 ]]></title>
@@ -357,7 +357,7 @@
  
  
 <channel>       
-<title><![CDATA[urgencias t1 a t15]]></title>
+<title><![CDATA[urgencias ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic88/132db806c777f113dba2613f390f4b1b.gif">]]>Urgencias fue una serie de television producida en Estados Unidos por la cadena NBC. Tiene un perfil dramatico. Fue creada por el novelista Michael Crichton. Trata acerca de lo que ocurre en la sala de urgencias del hospital ficticio County General en Cook County, Chicago, Illinois, y de la compleja vida personal de los medicos que trabajan en ella.</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/urgencias.xml]]></playlist_url>
