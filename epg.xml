@@ -1,0 +1,2301 @@
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="LA1.es">
+<display-name lang="es">LA1.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="LA2.es">
+<display-name lang="es">LA2.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Antena3.sp">
+<display-name lang="es">Antena3.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Cuatro.sp">
+<display-name lang="es">Cuatro.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Telecinco.sp">
+<display-name lang="es">Telecinco.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="LaSexta.sp">
+<display-name lang="es">LaSexta.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="#0.es">
+<display-name lang="es">#0.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusSeries.sp">
+<display-name lang="es">CanalPlusSeries.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusSeriesXtra.sp">
+<display-name lang="es">CanalPlusSeriesXtra.sp</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Fox.sp">
+<display-name lang="es">Fox.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AXNhd.sp">
+<display-name lang="es">AXNhd.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="TNT.sp">
+<display-name lang="es">TNT.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="ComedyCentral.sp">
+<display-name lang="es">ComedyCentral.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Calle13.sp">
+<display-name lang="es">Calle13.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CosmopolitanHD.es">
+<display-name lang="es">CosmopolitanHD.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AMC.es">
+<display-name lang="es">AMC.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="FoxLife.sp">
+<display-name lang="es">FoxLife.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AXNWhite.es">
+<display-name lang="es">AXNWhite.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Scifi.sp">
+<display-name lang="es">Scifi.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="NonStopPeople.es">
+<display-name lang="es">NonStopPeople.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MTVEsp.sp">
+<display-name lang="es">MTVEsp.sp</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Neox.sp">
+<display-name lang="es">Neox.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="A3seriesHD.es">
+<display-name lang="es">A3seriesHD.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Energy.es">
+<display-name lang="es">Energy.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusEstrenos.sp">
+<display-name lang="es">CanalPlusEstrenos.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusXtra.sp">
+<display-name lang="es">CanalPlusXtra.sp</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="CanalPlusAccion.es">
+<display-name lang="es">CanalPlusAccion.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusComedia.es">
+<display-name lang="es">CanalPlusComedia.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DCineEsp.sp">
+<display-name lang="es">DCineEsp.sp</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="TCM.sp">
+<display-name lang="es">TCM.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Hollywood.sp">
+<display-name lang="es">Hollywood.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Sundance.es">
+<display-name lang="es">Sundance.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Dark.es">
+<display-name lang="es">Dark.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Ten.es">
+<display-name lang="es">Ten.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Paramount.es">
+<display-name lang="es">Paramount.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusFutbol.es">
+<display-name lang="es">CanalPlusFutbol.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="MovistarPartidazo.es">
+<display-name lang="es">MovistarPartidazo.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="BeINLaLiga.es">
+<display-name lang="es">BeINLaLiga.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="BeinLaLiga1.es">
+<display-name lang="es">BeinLaLiga1.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="BeinLaLiga2.es">
+<display-name lang="es">BeinLaLiga2.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="BeINSports.es">
+<display-name lang="es">BeINSports.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="RealMadridTV.sp">
+<display-name lang="es">RealMadridTV.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="BarcaTV.es">
+<display-name lang="es">BarcaTV.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusDeportes.es">
+<display-name lang="es">CanalPlusDeportes.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusDeportes2.es">
+<display-name lang="es">CanalPlusDeportes2.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarFormula1.es">
+<display-name lang="es">MovistarFormula1.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="MovistarMotoGP.es">
+<display-name lang="es">MovistarMotoGP.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Golf.sp">
+<display-name lang="es">Golf.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Eurosport1.es">
+<display-name lang="es">Eurosport1.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Eurosport2.es">
+<display-name lang="es">Eurosport2.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="GOL.es">
+<display-name lang="es">GOL.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Teledeporte.sp">
+<display-name lang="es">Teledeporte.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalFutbolReplay.es">
+<display-name lang="es">CanalFutbolReplay.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CazayPesca.es">
+<display-name lang="es">CazayPesca.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="IberaliaTV.es">
+<display-name lang="es">IberaliaTV.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalPlusToros.es">
+<display-name lang="es">CanalPlusToros.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="NationalGeographic.sp">
+<display-name lang="es">NationalGeographic.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="NatGeoWild.sp">
+<display-name lang="es">NatGeoWild.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Historia.sp">
+<display-name lang="es">Historia.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DiscoveryChannel.sp">
+<display-name lang="es">DiscoveryChannel.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Odisea.sp">
+<display-name lang="es">Odisea.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="ae.sp">
+<display-name lang="es">ae.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Viajar.es">
+<display-name lang="es">Viajar.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DiscoveryMAX.es">
+<display-name lang="es">DiscoveryMAX.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CrimeAndInvestigation.es">
+<display-name lang="es">CrimeAndInvestigation.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CCTV Español">
+<display-name lang="es">CCTV Español</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Cocina.sp">
+<display-name lang="es">Cocina.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Decasa.sp">
+<display-name lang="es">Decasa.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DKISS.es">
+<display-name lang="es">DKISS.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Divinity.es">
+<display-name lang="es">Divinity.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Nova.sp">
+<display-name lang="es">Nova.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Mega.es">
+<display-name lang="es">Mega.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="BEMAD.es">
+<display-name lang="es">BEMAD.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="El Garage TV">
+<display-name lang="es">El Garage TV</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CanalOrbe21.es">
+<display-name lang="es">CanalOrbe21.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="BabyTV.sp">
+<display-name lang="es">BabyTV.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DisneyJr.sp">
+<display-name lang="es">DisneyJr.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Panda.es">
+<display-name lang="es">Panda.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="NickJunior.sp">
+<display-name lang="es">NickJunior.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Nickelodeon.sp">
+<display-name lang="es">Nickelodeon.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DisneyXD.sp">
+<display-name lang="es">DisneyXD.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DisneyChannel.sp">
+<display-name lang="es">DisneyChannel.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Boing.sp">
+<display-name lang="es">Boing.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="ClanTVE.sp">
+<display-name lang="es">ClanTVE.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Los40">
+<display-name lang="es">Los40</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="VH1.sp">
+<display-name lang="es">VH1.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="MTVRocks.es">
+<display-name lang="es">MTVRocks.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Mezzo.sp">
+<display-name lang="es">Mezzo.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Classica.es">
+<display-name lang="es">Classica.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="ClassicaHD.es">
+<display-name lang="es">ClassicaHD.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="PlayboyTV.es">
+<display-name lang="es">PlayboyTV.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="24Horas.sp">
+<display-name lang="es">24Horas.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="BBCWorld.es">
+<display-name lang="es">BBCWorld.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CNNInt.es">
+<display-name lang="es">CNNInt.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="FoxNews.es">
+<display-name lang="es">FoxNews.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Euronews.es">
+<display-name lang="es">Euronews.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AlJazeeraEnglish.es">
+<display-name lang="es">AlJazeeraEnglish.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="FRANCE24.es">
+<display-name lang="es">FRANCE24.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="RTEspanol.es">
+<display-name lang="es">RTEspanol.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="CNBC.es">
+<display-name lang="es">CNBC.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="TV5MONDE.es">
+<display-name lang="es">TV5MONDE.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Bloomberg.es">
+<display-name lang="es">Bloomberg.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Intereconomia.sp">
+<display-name lang="es">Intereconomia.sp</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="SkyNews.es">
+<display-name lang="es">SkyNews.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="LibertadDigital.es">
+<display-name lang="es">LibertadDigital.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="i24News.fr">
+<display-name lang="es">i24News.fr</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="CNCWorld.es">
+<display-name lang="es">CNCWorld.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="TelefeInternacional.es">
+<display-name lang="es">TelefeInternacional.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="CanalEstrellas.es">
+<display-name lang="es">CanalEstrellas.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Caracol.es">
+<display-name lang="es">Caracol.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="TVRecord.sp">
+<display-name lang="es">TVRecord.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="TVChile.es">
+<display-name lang="es">TVChile.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="TVColombia.es">
+<display-name lang="es">TVColombia.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Cubavision.sp">
+<display-name lang="es">Cubavision.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Telesur.es">
+<display-name lang="es">Telesur.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="EWTN.es">
+<display-name lang="es">EWTN.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="ARIRANGTV.es">
+<display-name lang="es">ARIRANGTV.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="NHKWorld.es">
+<display-name lang="es">NHKWorld.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="CanalSurAndalucia.es">
+<display-name lang="es">CanalSurAndalucia.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="TVGalicia.es">
+<display-name lang="es">TVGalicia.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="TV3.es">
+<display-name lang="es">TV3.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="etb1.es">
+<display-name lang="es">etb1.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="etb2.es">
+<display-name lang="es">etb2.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AragonTV.es">
+<display-name lang="es">AragonTV.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Canal33.es">
+<display-name lang="es">Canal33.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Esport3.es">
+<display-name lang="es">Esport3.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="324.es">
+<display-name lang="es">324.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Vamos.es">
+<display-name lang="es">Vamos.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="13tv.es">
+<display-name lang="es">13tv.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="AndaluciaTVsat.sp">
+<display-name lang="es">AndaluciaTVsat.sp</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="7tv.es">
+<display-name lang="es">7tv.es</display-name>
+<icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/murcia.gif"/>
+<url>http://www.elmundo.es</url>
+</channel>
+<channel id="Blaze.es">
+<display-name lang="es">Blaze.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="CanalExtremadura.es">
+<display-name lang="es">CanalExtremadura.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="Cazavision.es">
+<display-name lang="es">Cazavision.es</display-name>
+<url>http://www.sincroguia.tv.2d</url>
+</channel>
+<channel id="DMAX.es">
+<display-name lang="es">DMAX.es</display-name>
+<url>http://www.sincroguia.tv</url>
+</channel>
+<channel id="LaOtra.es">
+<display-name lang="es">LaOtra.es</display-name>
+<url>http://www.sincroguia.tv</url>
+</channel>
+<channel id="SolMusica.sp">
+<display-name lang="es">SolMusica.sp</display-name>
+<url>http://www.sincroguia.tv</url>
+</channel>
+<channel id="Telemadrid.es">
+<display-name lang="es">Telemadrid.es</display-name>
+<url>http://www.sincroguia.tv</url>
+</channel>
+<channel id="XTRM.es">
+<display-name lang="es">XTRM.es</display-name>
+<icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/extremetv.gif"/>
+<url>http://www.elmundo.es</url>
+</channel>
+<channel id="LaLiga123.es">
+<display-name lang="es">LaLiga123.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="LaLiga123Multi1.es">
+<display-name lang="es">LaLiga123Multi1.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="LaLiga123Multi2.es">
+<display-name lang="es">LaLiga123Multi2.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="LaLiga123Multi3.es">
+<display-name lang="es">LaLiga123Multi3.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="LaLiga123Multi4.es">
+<display-name lang="es">LaLiga123Multi4.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="Multideporte1.es">
+<display-name lang="es">Multideporte1.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte2.es">
+<display-name lang="es">Multideporte2.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte3.es">
+<display-name lang="es">Multideporte3.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte4.es">
+<display-name lang="es">Multideporte4.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte5.es">
+<display-name lang="es">Multideporte5.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte6.es">
+<display-name lang="es">Multideporte6.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="Multideporte7.es">
+<display-name lang="es">Multideporte7.es</display-name>
+<url>http://www.laguiatv.com</url>
+</channel>
+<channel id="MovistarLDC.es">
+<display-name lang="es">MovistarLDC.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC1.es">
+<display-name lang="es">MovistarLDC1.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC2.es">
+<display-name lang="es">MovistarLDC2.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC3.es">
+<display-name lang="es">MovistarLDC3.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC4.es">
+<display-name lang="es">MovistarLDC4.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC5.es">
+<display-name lang="es">MovistarLDC5.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC6.es">
+<display-name lang="es">MovistarLDC6.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC7.es">
+<display-name lang="es">MovistarLDC7.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MovistarLDC8.es">
+<display-name lang="es">MovistarLDC8.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MULTIFUT. 1">
+<display-name lang="es">MULTIFUT. 1</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MULTIFUT. 2">
+<display-name lang="es">MULTIFUT. 2</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MULTIFUT. 3">
+<display-name lang="es">MULTIFUT. 3</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MULTIFUT. 4">
+<display-name lang="es">MULTIFUT. 4</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="MULTIFUT. 5">
+<display-name lang="es">MULTIFUT. 5</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="BeINLaLigaMAX1.es">
+<display-name lang="es">BeINLaLigaMAX1.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINLaLigaMAX2.es">
+<display-name lang="es">BeINLaLigaMAX2.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINLaLigaMAX3.es">
+<display-name lang="es">BeINLaLigaMAX3.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINLaLigaMAX4.es">
+<display-name lang="es">BeINLaLigaMAX4.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINLaLigaMAX4k.es">
+<display-name lang="es">BeINLaLigaMAX4k.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX1.es">
+<display-name lang="es">BeINSportsMAX1.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX2.es">
+<display-name lang="es">BeINSportsMAX2.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX3.es">
+<display-name lang="es">BeINSportsMAX3.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX4.es">
+<display-name lang="es">BeINSportsMAX4.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX5.es">
+<display-name lang="es">BeINSportsMAX5.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX6.es">
+<display-name lang="es">BeINSportsMAX6.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="BeINSportsMAX7.es">
+<display-name lang="es">BeINSportsMAX7.es</display-name>
+<url>http://www.ono.es</url>
+</channel>
+<channel id="Taquilla1.es">
+<display-name lang="es">Taquilla1.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla2.es">
+<display-name lang="es">Taquilla2.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla3.es">
+<display-name lang="es">Taquilla3.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla4.es">
+<display-name lang="es">Taquilla4.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla5.es">
+<display-name lang="es">Taquilla5.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla6.es">
+<display-name lang="es">Taquilla6.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="TaquillaHD.es">
+<display-name lang="es">TaquillaHD.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<channel id="Taquilla2HD.es">
+<display-name lang="es">Taquilla2HD.es</display-name>
+<url>http://www.movistarplus.es</url>
+</channel>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA1.es">
+<title lang="es">Noticias 24H <span> </span></title>
+<desc lang="es">
+Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos" title="Informativos">Informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA1.es">
+<title lang="es">Noticias 24H <span> </span></title>
+<desc lang="es">
+Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos" title="Informativos">Informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA1.es">
+<title lang="es">Telediario Matinal <span> </span></title>
+<desc lang="es">
+Inma Gómez Lobo y Ana Ibáñez conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Ángel Pons presenta la información deportiva(n)
+</desc>
+<credits>
+<presenter>Inmaculada Gómez Lobo</presenter>
+<presenter>Ana Ibáñez</presenter>
+<presenter>Àngel Pons</presenter>
+</credits>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos" title="Informativos">Informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA1.es">
+<title lang="es">Los desayunos de TVE <span> </span></title>
+<desc lang="es">
+Xabier Fortes dirige y presenta este programa de análisis de la actualidad, entrevistas y tertulias. El espacio da cabida a las diversas opiniones que expresa su panel de comentaristas, representativo del más amplio abanico de sensibilidades(n)
+</desc>
+<credits>
+<director>Xabier Fortes</director>
+<presenter>Xabier Fortes</presenter>
+</credits>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos-entrevistas" title="Entrevistas">Entrevistas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA1.es">
+<title lang="es">La mañana de La 1 <span> </span></title>
+<desc lang="es">
+Magacín matinal que reúne información de actualidad, entrevistas, reportajes y diversas secciones divulgativas. María Casado conduce este espacio diario que además da cobertura a las noticias más importantes del día(n)
+</desc>
+<credits>
+<director>Alfonso García</director>
+<director>Víctor Otamendi</director>
+<presenter>María Casado</presenter>
+</credits>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-magazin" title="Programas magazín">Programas magazín </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA2.es">
+<title lang="es">Huecos de vida <span> </span></title>
+<desc lang="es">
+Desde el pájaro carpintero negro creando un nuevo agujero hasta una familia de jóvenes búhos que aprenden a volar o la reubicación de un grupo de martas, se teje una variada red de vida frente a nuestros ojos(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-documentales-naturaleza" title="Documentales de naturaleza">Documentales de naturaleza </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA2.es">
+<title lang="es">
+Diario de un nómada - La tumba del último borbón <span> - T3.E4 </span>
+</title>
+<desc lang="es">
+Miquel Silvestre recorre Milán para comprar en un mercado los ingredientes de un risotto. Hará in alto en el Lago di Garda antes de llegar a Venecia. Su próximo destino será la población eslovena de Nova Górica donde está enterrado el último rey Borbón de Francia(n)
+</desc>
+<credits>
+<presenter>Miguel Silvestre</presenter>
+</credits>
+<date>2016</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-documentales-viajes-y-expediciones" title="Documentales de viajes">Documentales de viajes </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA2.es">
+<title lang="es">
+La aventura malasia de John Torode - Kota Bharu <span> - T1.E7 </span>
+</title>
+<desc lang="es">
+En los puestos ambulantes de Kota Bharu, ciudad de mayoría musulmana, una receta de chiles rellenos de 'mousse' de pescado y coco, Solok Lada(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-cocina" title="Programas de cocina">Programas de cocina </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA2.es">
+<title lang="es">That's English <span> </span></title>
+<desc lang="es">
+Programa divulgativo que ofrece un curso de inglés a distancia, creado por el Ministerio de Educación en colaboración con la BBC británica y Televisión Española. El curso permite obtener el Certificado del Ciclo Elemental de la Escuela Oficial de Idiomas(n)
+</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-cursos-otros" title="Otros cursos">Otros cursos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LA2.es">
+<title lang="es">Activa-2 <span> - T1.E52 </span></title>
+<desc lang="es">
+Programa que anima al espectador a llevar una vida sana basada en el movimiento, el deporte, la nutrición y la diversión. Habla de las últimas tendencias deportivas, yoga, mindfullness o turismo deportivo y ofrece consejos para entrenar o para alimentarse bien(n)
+</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas" title="Programas">Programas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Antena3.sp">
+<title lang="es">Minutos musicales <span> </span></title>
+<desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-musica-videoclips" title="Programas de música y videoclips">Programas de música y videoclips </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Antena3.sp">
+<title lang="es">Las noticias de la mañana <span> </span></title>
+<desc lang="es">
+Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Las periodistas Lorena García, María José Sáez y Angie Rigueiro conducen este informativo matinal. Con Irenka Zufiria en los deportes y Mercedes Martín en el tiempo(n)
+</desc>
+<credits>
+<presenter>Mercedes Martín</presenter>
+<presenter>Irenka Zufiria</presenter>
+<presenter>Lorena García</presenter>
+<presenter>Maria José Saez</presenter>
+<presenter>Angie Rigueiro</presenter>
+</credits>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos" title="Informativos">Informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+-1</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Antena3.sp">
+<title lang="es">Previo: Espejo Público <span> T13 </span></title>
+<desc lang="es">
+Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos(n)
+</desc>
+<credits>
+<director>Julián Nieto</director>
+<presenter>Susanna Griso</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-magazin" title="Programas magazín">Programas magazín </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Antena3.sp">
+<title lang="es">Espejo Público <span> T13 </span></title>
+<desc lang="es">
+Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos(n)
+</desc>
+<credits>
+<director>Julián Nieto</director>
+<presenter>Susanna Griso</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-magazin" title="Programas magazín">Programas magazín </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Antena3.sp">
+<title lang="es">Karlos Arguiñano en tu cocina <span> T9 </span></title>
+<desc lang="es">
+Novena temporada de este programa en el que Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios. El cocinero vasco elabora en este temporada ricos y sencillos platos muy apropiados para los tiempos que corren(n)
+</desc>
+<credits>
+<presenter>Karlos Arguiñano</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-cocina" title="Programas de cocina">Programas de cocina </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Cuatro.sp">
+<title lang="es">Puro Cuatro <span> </span></title>
+<desc lang="es">
+La música que suena en los programas y autopromociones de la cadena es la protagonista de este programa de Cuatro. El espacio es un escaparate de las últimas tendencias del pop, rock, 'hip hop' y electrónica, así como una lanzadera para dar a conocer a nuevos artistas(n)
+</desc>
+<date>2009</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas" title="Programas">Programas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Cuatro.sp">
+<title lang="es">El zapping de Surferos <span> - T1.E3 </span></title>
+<desc lang="es">
+Físicamente es imposible llegar a captar todo aquel contenido interesante que se emite en los diferentes canales de televisión. Por ello, este espacio rastrea el oleaje del universo catódico y elige lo más destacado de una forma original y divertida(n)
+</desc>
+<date>2005</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-variedades" title="Programas de variedades">Programas de variedades </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Cuatro.sp">
+<title lang="es">Gym Tony XS <span> </span></title>
+<desc lang="es">
+En un gimnasio de barrio varios personajes estrafalarios viven situaciones disparatadas. A pesar de que Tony, el dueño del establecimiento, tiene una forma muy particular de llevar su negocio, tiene un grupo de clientes fieles que ha convertido en su nueva familia(n)
+</desc>
+<date>2016</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-humor" title="Programas de humor">Programas de humor </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Cuatro.sp">
+<title lang="es">El encantador de perros <span> - T6.E12 </span></title>
+<desc lang="es">
+Programa en el que el adiestrador mexicano César Millán educa a perros que presentan problemas de comportamiento. Cada entrega se centra en un animal problemático: se estudia el caso y se marcan los límites para que el perro pueda convivir con la familia(n)
+</desc>
+<credits>
+<director>César Millán</director>
+<presenter>César Millán</presenter>
+</credits>
+<date>2004</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-series-extranjeras-drama" title="Series drama extranjeras">Series drama extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Cuatro.sp">
+<title lang="es">Alerta Cobra - El paleto <span> - T33.E4 </span></title>
+<desc lang="es">
+En la Europa del año 2000 las autopistas alemanas se han convertido en los lugares de paso de multitud de personajes siniestros, cargas peligrosas y conductores temerarios que cruzan el continente de un lado a otro. La brigada especial de carreteras se encarga de luchar contra el crimen en estos lugares y de tratar de mantener el orden en algunas de las zonas más conflictivas del país. Un trabajo de alto riesgo y máxima velocidad en el que se enfrentan a secuestradores, traficantes, fugitivos, ladrones y todo tipo de delincuentes que huyen de las ciudades para encontrarse cara a cara con estos héroes anónimos.''Alerta Cobra'' fue la pionera dentro de las series de acción de la productora alemana RTL. Gracias a su popularidad vieron la luz otros grandes éxitos del país teutón, como ''El Payaso'', ''Medicopter'' o ''Tres ángeles salvajes''. ''Alerta Cobra'' ha sido uno de los espacios más vistos en Alemania durante más de seis años.Entre el reparto, que ha contado con múltiples caras a lo largo de la veintena de temporadas que ha estado en antena, destacan los carismáticos René Steinke y Erdogan Atalay(n)
+</desc>
+<date>1996</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Alemania</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Telecinco.sp">
+<title lang="es">Miramimúsica <span> </span></title>
+<desc lang="es">Programa musical que se emite de madrugada(n)</desc>
+<date>2016</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas" title="Programas">Programas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Telecinco.sp">
+<title lang="es">La tienda en casa <span> </span></title>
+<desc lang="es">
+Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono(n)
+</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-teletienda" title="Teletienda">Teletienda </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+-1</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Telecinco.sp">
+<title lang="es">I Love TV <span> - T1.E7 </span></title>
+<desc lang="es">
+Espacio de zapeo que ofrece las imágenes más impactantes de la pequeña pantalla(n)
+</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-otros" title="Otros programas de entretenimiento">Otros programas de entretenimiento </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Telecinco.sp">
+<title lang="es">
+7 vidas - El indomable Miguelito Hunting <span> - T13.E10 </span>
+</title>
+<desc lang="es">
+Gonzalo y Diana se fijan en la misma chica. La candidata es Elena, una compañera de trabajo de Vero a la que conocen en el Casi Ké No. Cuando se enteran que la susodicha es bisexual comienza una guerra entre ambos por conseguir una cita con ella. Elena, ni corta ni perezosa, les pide que hagan un trío. Gonzalo se queda desconcertado ante la proposición, pero a Diana no le parece una idea tan descabellada.Aída aconseja al frutero que ponga un profesor particular a su hijo si quiere que apruebe todas las asignaturas y supere el curso. Sergio aprovecha la situación para ganarse un dinerillo, por lo que se ofrece a ayudarle. A pesar de que el frutero no confía demasiado en Sergio, accede a que enseñe a Miguelito. El frutero le explica a Sergio que no puede pagarle pero le convence, con chantaje emocional, para que continúe enseñando al pequeño.Sole se siente una incomprendida. A ninguno de sus amigos le interesan las historias que cuenta de su juventud y, para que la escuchen, se le ocurre inventarse una historia que capte su atención: es amiga casi íntima del roquero por excelencia, Miguel Ríos(n)
+</desc>
+<date>2004</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-espanolas-comedia" title="Series de comedia españolas">Series de comedia españolas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Telecinco.sp">
+<title lang="es">Escenas de matrimonio <span> T2007 </span></title>
+<desc lang="es">
+Serie que muestra las divertidas reacciones de tres parejas que viven en tres barrios diferentes de la misma ciudad ante situaciones similares que abordan en su vida cotidiana. Un cineasta en ciernes, la ambiciosa directora de una agencia de modelos y actores, un funcionario público y un ama de casa, son algunos de los protagonistas. La ilusión de dos jóvenes que han iniciado una vida en común, la coexistencia de dos cuarentones sin la presencia de su único hijo en el hogar conyugal y las enconadas desavenencias entre dos mayores que apenas se soportan, serán una constante en las tramas de la serie. ''Escenas de matrimonio'' se basa en una idea que surgió en el programa de José Luís Moreno ''Noche de fiesta''. La productora encargó su dirección a otro conocido de Moreno: Alberto Caballero, responsable de ''Aquí no hay quien viva'' y ''La que se avecina''. Entre el reparto, destaca la ex integrante de Las Virtudes Soledad Mallol(n)
+</desc>
+<credits>
+<director>Alberto Caballero</director>
+</credits>
+<date>2007</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-espanolas-comedia" title="Series de comedia españolas">Series de comedia españolas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LaSexta.sp">
+<title lang="es">Minutos musicales <span> </span></title>
+<desc lang="es">Emisión de videoclips y piezas musicales(n)</desc>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-musica-videoclips" title="Programas de música y videoclips">Programas de música y videoclips </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LaSexta.sp">
+<title lang="es">Previo Arusitys <span> - T1.E101 </span></title>
+<desc lang="es">
+Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor(n)
+</desc>
+<credits>
+<director>Alfonso Arús</director>
+<presenter>Alfonso Arús</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-humor" title="Programas de humor">Programas de humor </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LaSexta.sp">
+<title lang="es">Arusitys <span> - T1.E101 </span></title>
+<desc lang="es">
+Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor(n)
+</desc>
+<credits>
+<director>Alfonso Arús</director>
+<presenter>Alfonso Arús</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-humor" title="Programas de humor">Programas de humor </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LaSexta.sp">
+<title lang="es">Al rojo vivo <span> T1819 </span></title>
+<desc lang="es">
+Antonio García Ferreras y María Llapart presentan este programa de debate sobre la actualidad, esencialmente política, y alejada de una línea editorial conservadora. Analistas, periodistas y expertos buscan las claves de las noticias diarias(n)
+</desc>
+<credits>
+<director>Antonio G. Ferreras</director>
+<presenter>Antonio G. Ferreras</presenter>
+<presenter>María Llapart</presenter>
+</credits>
+<date>2019</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos-reportaje" title="Reportajes informativos">Reportajes informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="LaSexta.sp">
+<title lang="es">laSexta Noticias <span> </span></title>
+<desc lang="es">
+Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad(n)
+</desc>
+<credits>
+<director>César G. Antón</director>
+<presenter>Helena Resano</presenter>
+</credits>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/informativos/informativos" title="Informativos">Informativos </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+-1</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="#0.es">
+<title lang="es">
+Tesoros al descubierto - El Buque de Barbanegra <span> - T2.E4 </span>
+</title>
+<desc lang="es">
+Hace 300 años naufragó La Venganza de la Reina Ana, el barco de Barbanegra. ¿Qué nos puede revelar este suceso sobre el más famoso de los piratas?(n)
+</desc>
+<date>2013</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-documentales-historia" title="Documentales de historia">Documentales de historia </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="#0.es">
+<title lang="es">
+The Good Wife - Comisión independiente <span> - T3.E19 </span>
+</title>
+<desc lang="es">
+Unos asesores externos investigan los detalles que hay tras un tiroteo policial. Alicia dudará de la honestidad de los dirigentes de esta(n)
+</desc>
+<date>2012</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="#0.es">
+<title lang="es">The Good Wife - Mentiras <span> - T3.E20 </span></title>
+<desc lang="es">
+Alicia aconseja a un cliente sobre si acepta o no un estricto plan de alegato. A pesar de la importancia del caso, la letrada estará distraida por el nuevo rival político de Peter, cuyas acciones la forzarán a volver a salir a la luz(n)
+</desc>
+<date>2012</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="#0.es">
+<title lang="es">The Good Wife - La nevera <span> - T3.E21 </span></title>
+<desc lang="es">
+Alicia defiende a un juez que se enfrenta a cargos de falta de ética profesional. Y, mientras Kalinda visita a Lana Delaney, Cary cambía de carrera(n)
+</desc>
+<date>2012</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="#0.es">
+<title lang="es">
+Realidad o ficción - Ilusionistas <span> - T2.E5 </span>
+</title>
+<desc lang="es">
+Nos centramos en dos conocidos artistas de la magia y la ilusión. De la historia de la escapada de Harry Houidini a las célebres frases del empresario circense P. T. Barnum a quién erróneamente se le atribuyó la cita 'A cada minuto nace un idiota'(n)
+</desc>
+<date>2013</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-documentales-educacion" title="Documentales educativos">Documentales educativos </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CanalPlusSeries.sp">
+<title lang="es">The Good Wife - Patrimonio <span> - T2.E14 </span></title>
+<desc lang="es">
+Alicia reconsidera su relación con Will al escuchar el mensaje que le dejó en su contestador. Mientras, él y Diana asumen el caso de difamación de un joven programador, famoso y millonario, que quiere demandar a una compañía cinematográfica por mostrar una mala imagen suya.Por otro lado, la Fiscalía del estado investiga la agresión a un testigo. Y Cary intenta advertir a Kalina, pero cada vez parce más sospechoso(n)
+</desc>
+<date>2011</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CanalPlusSeries.sp">
+<title lang="es">
+The Good Wife - Bala de plata <span> - T2.E15 </span>
+</title>
+<desc lang="es">
+Eli se cuestiona su trabajo a raíz del caso contra Wendy Scott-Carr. Cree que ha encontrado la clave del caso cuando descubre que Peter contrató una inmigrante ilegal que vive en Estados Unidos desde hace años, como niñera. En casa, Alicia tiene una charla con Grace.Diane defiende a un antiguo amor, Kurt McVeigh, que es acusado de manipular las pruebas en otro caso. Ella tendrá que demostrar que lo que hizo fue por buena voluntad como muestra de su honestidad(n)
+</desc>
+<date>2011</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CanalPlusSeries.sp">
+<title lang="es">
+The Good Wife - Buen corta fuegos <span> - T2.E16 </span>
+</title>
+<desc lang="es">
+Los abogados del bufete demandan a una página web en nombre de un disidente chino. Éste ha sido torturado y encarcelado después de que el blog, en la que había publicado sus opiniones acerca de la democracia en China, revelara su dirección IP.Además, el futuro del bufete está apunto de decidirse y los interesados, Diane, Will y Derrick, buscan los últimos votos para su candidatura. Diana recurre a unos viejos compañeros para poder ganar, aunque el precio a pagar será alto(n)
+</desc>
+<date>2011</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CanalPlusSeries.sp">
+<title lang="es">
+The Good Wife - Sandwich de jamón <span> - T2.E17 </span>
+</title>
+<desc lang="es">
+Alicia ayuda a Bishop, un narcotraficante, con su divorcio y la custodia de sus hijos. Aunque él todavía cree en la reconciliación con su mujer. El bufete no puede permitirse perder este importante cliente. A la vez, citan a Kalina delante de un gran jurado para una investigación.Por otro lado, Eli se da cuenta que tiene que cambiar su estrategia para que Peter consiga los votos de la clase media blanca y así poder ganar(n)
+</desc>
+<date>2011</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CanalPlusSeries.sp">
+<title lang="es">
+La extraña pareja - Las extrañas parejas <span> - T3.E7 </span>
+</title>
+<desc lang="es">
+La asentada vida de Oscar Madison, un hombre divorciado que trabaja en un programa deportivo de radio, da un giro cuando se ve obligado a acoger en casa a su colega Felix Unger, que acaba de separarse de su mujer y busca alojamiento en casa de su amigo. Pero la convivencia no les va a resultar nada fácil. La obsesión casi enfermiza de Félix por la limpieza y el orden chocan con los hábitos de Oscar, que es descuidado, está de vuelta de todo y no tiene intención de cambiar sus manías a estas alturas de la vida. Sitcom gamberra y enternecedora protagonizada por Matthew Perry (''Friends'') y Thomas Lennon. La serie es, en origen, una obra de teatro de Neil Simon que gozó de gran éxito en los años 60 y lo sigue haciendo (en España también tuvo varias representaciones; la última dirigida actualmente por el cómico Agustín Jiménez). La obra de teatro tuvo una exitosa versión cinematográfica en 1968, protagonizada por Walter Matthau y Jack Lemon, y fue nominada a dos Oscars: mejor guión adaptado y mejor montaje. Después tuvo su primera versión televisiva en los 70, protagonizada por Tony Randall y Jack Klugman, que se convirtió en una serie mítica(n)
+</desc>
+<date>2016</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Fox.sp">
+<title lang="es">
+Padre de familia - La juventud perdida de Peter <span> - T16.E17 </span>
+</title>
+<desc lang="es">
+Peter se pone celoso de Lois cuando le eclipsa en el campo de béisbol de los Red Sox. Por otra parte, Stewie huye de casa cuando Meg debe encargarse de cuidar de él(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Fox.sp">
+<title lang="es">
+FOX Gamer - FOX Gamer: Reportaje The Game Awards <span> - T1.E7 </span>
+</title>
+<desc lang="es">
+Programa especial en el que se repasará la actualidad del mundo del videojuego y las próximas competiciones de e-sports(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-otros" title="Otros programas de entretenimiento">Otros programas de entretenimiento </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Fox.sp">
+<title lang="es">
+FOX Gamer - Fox Gamer: Rankings: Game Awards 2 <span> - T1.E8 </span>
+</title>
+<desc lang="es">
+Programa especial en el que se repasará la actualidad del mundo del videojuego y las próximas competiciones de e-sports(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-otros" title="Otros programas de entretenimiento">Otros programas de entretenimiento </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Fox.sp">
+<title lang="es">
+Padre de familia - Las que se fueron <span> - T16.E19 </span>
+</title>
+<desc lang="es">
+Cuando la novia mexicana de Chris, Isabella, es deportada, se ofrece voluntario para cuidar de sus bebés gemelos. Cuando descubren que Isabella no puede regresar a los Estados Unidos, los Griffin van a México para devolver a los gemelos(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Fox.sp">
+<title lang="es">
+Wayward Pines - Una evaluación <span> - T1.E9 </span>
+</title>
+<desc lang="es">
+Ethan interroga a Harold sobre el resto de insurgentes que han conseguido traspasar las vallas de Wayward Pines. Mientras tanto, la salud de Amy empeora y la enfermera Pam incide para que Theresa a investigue la parcela 33.Por su parte, Megan Fisher anima a Ben para que hable públicamente sobre los hechos ocurridos en el pueblo(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNhd.sp">
+<title lang="es">
+Cómo defender a un asesino - Es un mal padre <span> - T4.E11 </span>
+</title>
+<desc lang="es">
+Una persona importante en la vida de Laurel llega a la ciudad para ayudarla a medida que se revelan detalles privados sobre su pasado. Mientras tanto, Annalise encuentra un obstáculo que involucra a un posible demandante para su acción colectiva(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNhd.sp">
+<title lang="es">
+Cómo defender a un asesino - Ask him about Stella <span> - T4.E12 </span>
+</title>
+<desc lang="es">
+En el caso de Annalise para ayudar a Laurel, se revelan detalles perjudiciales sobre un testigo clave. Los ''Keating Four'' continúan trabajando en la demanda colectiva de Annalise(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNhd.sp">
+<title lang="es">Blindspot - Solos <span> - T2.E17 </span></title>
+<desc lang="es">
+Jane y su nuevo ligue Oliver, se encuentran en una situación peligrosa que pretende forzarles a descubrir los secretos que ambos estaban ocultándose. Aunque probablemente no puedan confiar el uno en el otro, lo que si deben hacer, es mantenerse con vida hasta que Weller y el equipo los salve(n)
+</desc>
+<date>2016</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNhd.sp">
+<title lang="es">
+Mentes criminales - Obra maestra <span> - T4.E8 </span>
+</title>
+<desc lang="es">
+Mientras Rossi y Reid se encuentran en la Universidad de Strayer en Virginia explicando a los estudiantes el funcionamiento del FBI y las posibilidades de entrar a trabajar en la agencia, el profesor Rothschild se presenta a los analistas y les hace entrega de un inquietante documento: una carpeta con estremecedoras fotografías de varias mujeres. El hombre les asegura que ha matado a siete de ellas y que cinco inocentes morirán en las próximas cinco horas, a menos que el FBI encuentre la manera de salvarlos.Poco después, Rossi llama a Hotchner para informarle que han detenido a Rothschild y explicarle los pormenores del nuevo caso. Cuando Rossi y Reid llegan con el detenido a la sede de la Unidad de Análisis de Conducta, un programa de televisión anuncia la desaparición de Kaylee Robinson y los cuatro niños que cuidaba en la localidad de Loretto en Virginia. El alarde sobre su alto cociente intelectual, el extraño colgante que lleva en el cuello y la manía de golpear repetidamente sus pulgares permiten a los analistas esbozar un primer perfil de Rothschild, con el que esperan localizar a sus últimas víctimas antes de que sea demasiado tarde(n)
+</desc>
+<date>2008</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNhd.sp">
+<title lang="es">
+Alice Nevers - Obsesión viral <span> - T9.E5 </span>
+</title>
+<desc lang="es">
+En esta ocasión Alice y Marquand tendrán que investigar el asesinato de una profesora estricta y poco sociable capaz a su vez de entregarse generosamente a causas altruistas. Hay varios sospechosos: un alumno antisitema, un profesor(n)
+</desc>
+<date>2010</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>N</country>
+<country>A</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="TNT.sp">
+<title lang="es">Los sustitutos <span> </span></title>
+<desc lang="es">
+En el futuro, los humanos viven a través de robots que se controlan desde sus casas. Estos son réplicas mejoradas de ellos mismos, por lo que cuando varios de los androides aparecen asesinados, dos policías comienzan a tener problemas para diferenciar a las personas reales de los sustitutos.Jonathan Mostow (''Terminator 3''. La rebelión de las máquinas) dirige este thriller de ciencia ficción. Esta vez se sirve de la adaptación de un cómic que aporta la inquietante idea central. Aprovechando esta base, el filme critica prácticas como el sedentarismo, la creciente dependencia de la tecnología o el abuso de las redes sociales. A partir de aquí, Mostow usa un holgado presupuesto de más de 60 millones de euros para incluir secuencias de acción trepidante. La aparición del carismático Bruce Willis -ya habituado a estas propuestas- sirve de gancho para las masas.A pesar de todo, la cinta no logró recaudar en Estados Unidos ni la mitad de lo que costó. Su aceptación en el resto del mundo -en España atrajo a casi 700.000 espectadores- libró a ''Los sustitutos'' de convertirse en un fracaso comercial(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jonathan Mostow">Jonathan Mostow</span>
+</director>
+<writer>Michael Ferris</writer>
+<writer>John D. Brancato</writer>
+<producer>Max Handelman</producer>
+<producer>David Hoberman</producer>
+<producer>Todd Lieberman</producer>
+<composer>Richard Marvin</composer>
+</credits>
+<date>2009</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/peliculas-de-ciencia-ficcion" title="Películas de ciencia ficción">Películas de ciencia ficción </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="TNT.sp">
+<title lang="es">
+Robot Chicken - Noidstrom Rack <span> - T7.E12 </span>
+</title>
+<desc lang="es">
+Qué pasaría si Zybots se une a los Autobots. El turno de noche de la Enterprise tiene una aventura loca y vemos qué hay detrás de Medieval Times(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="TNT.sp">
+<title lang="es">The Flash - Leyendas de hoy <span> - T2.E8 </span></title>
+<desc lang="es">
+Vandal Savage llega a Central City con Kendra Saunders en su punto de mira. Barry se lleva a Kendra a Star City y le pide a Oliver y su equipo que la oculten. Mientras tanto, Harrison desarrolla un suero para hacer a Barry más veloz y le pide a Jay que lo pruebe(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-accion" title="Series extranjeras de acción">Series extranjeras de acción </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="TNT.sp">
+<title lang="es">
+The Flash - Correr para parar <span> - T2.E9 </span>
+</title>
+<desc lang="es">
+Mark Mardon regresa para liberar al Capitán Frío y a Trickster de Iron Heights. Barry deberá detener a estos villanos si no quiere que Central City caiga presa del caos durante Navidad. Mientras tanto, Iris y Joe conocen a Wally West(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-accion" title="Series extranjeras de acción">Series extranjeras de acción </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="TNT.sp">
+<title lang="es">
+El ilusionista (Deception) - Piloto <span> - T1.E1 </span>
+</title>
+<desc lang="es">
+Con ayuda de su equipo, Cameron Black se convierte en el primer asesor ilusionista del mundo y ayudará al gobierno a resolver crímenes extraños utilizando su talento para la magia y el engaño(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>Apta</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="ComedyCentral.sp">
+<title lang="es">
+La que se avecina - Unas mariposillas, una multiorgásmica y una varicela asesina <span> - T8.E10 </span>
+</title>
+<desc lang="es">
+La estudiada estrategia de Berta ha logrado que Antonio acepte casarse con ella por segunda vez, después de la larga abstinencia sexual a la que le ha sometido. La vecina beata desea celebrar una boda por todo lo alto y para ello convencerá al mayorista de pescado para que contraten los servicios de Lydia, una experimentada 'wedding planner'.Mientras los Recio ultiman los preparativos de su boda, un fuerte brote de varicela desata el pánico en Mirador de Montepinar. Ante la virulencia del contagio, las autoridades sanitarias sospechan que podría tratarse de un peligroso virus, por lo que deciden poner en cuarentena a todos los habitantes.Por otra parte, la alcaldesa María Teresa sigue viviendo en el apartamento de Enrique, cuando recibe la inesperada visita de su marido, el ministro del Interior, dispuesto a arreglar su matrimonio. Entretanto, las chicas compiten entre sí por conquistar al apuesto escolta de la regidora, que oculta un secreto.Cabe destacar la presencia en este episodio de la presentadora y locutora radiofónica valenciana Nuria Roca, que se pone en la piel de la profesional que tratará que el enlace nupcial de los Recio sea el evento del año(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-espanolas-comedia" title="Series de comedia españolas">Series de comedia españolas </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="ComedyCentral.sp">
+<title lang="es">Teachers - Que fluya <span> - T2.E15 </span></title>
+<desc lang="es">
+Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que seis maestras siguen intentando moldear las mentes de sus alumnos y superar sus problemas.Segunda temporada de esta comedia norteamericana. Desde negarse a leer cuentos de hadas, porque ''a veces el príncipe azul quiere salir con otras personas'' hasta pelearse con algún atractivo padre, las aventuras de este grupo de profes están destinadas a cambiar su mundo. Esta comedia norteamericana creada por The Katydids empezó en Internet consiguiendo un gran éxito por parte del público y la crítica. La comedia muestra la visión hilarante de seis profesoras de primaria y para ello la serie cuenta con un amplio reparto encabezado por las televisivas Caitlin Barlow (''The Real Housewives of Shakespeare''), Katy Colloton (''The Scarapist'') y Cate Freedman (''Single Long'').La serie fue estrenada en enero de 2016 en Estados Unidos y posteriormente ha sido emitida en otros países como Rusia o Australia teniendo una buena acogida(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="ComedyCentral.sp">
+<title lang="es">Teachers - La cita cañón <span> - T2.E16 </span></title>
+<desc lang="es">
+Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que seis maestras siguen intentando moldear las mentes de sus alumnos y superar sus problemas.Segunda temporada de esta comedia norteamericana. Desde negarse a leer cuentos de hadas, porque ''a veces el príncipe azul quiere salir con otras personas'' hasta pelearse con algún atractivo padre, las aventuras de este grupo de profes están destinadas a cambiar su mundo. Esta comedia norteamericana creada por The Katydids empezó en Internet consiguiendo un gran éxito por parte del público y la crítica. La comedia muestra la visión hilarante de seis profesoras de primaria y para ello la serie cuenta con un amplio reparto encabezado por las televisivas Caitlin Barlow (''The Real Housewives of Shakespeare''), Katy Colloton (''The Scarapist'') y Cate Freedman (''Single Long'').La serie fue estrenada en enero de 2016 en Estados Unidos y posteriormente ha sido emitida en otros países como Rusia o Australia teniendo una buena acogida(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="ComedyCentral.sp">
+<title lang="es">
+Central de Cómicos - Jorge Segura: Tikismikismo <span> - T7.E35 </span>
+</title>
+<desc lang="es">
+Con este nuevo monólogo, Jorge Segura sigue en su línea de abrir nuestras mentes, y darnos esas reflexiones y consejos que solo él sabe dar(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-humor" title="Programas de humor">Programas de humor </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="ComedyCentral.sp">
+<title lang="es">
+Central de Cómicos - Quique Matilla: Familia numerosa <span> - T7.E36 </span>
+</title>
+<desc lang="es">
+Quique Matilla es padre por tercera vez, se ha mudado a un pueblo muy tranquilo, pero su vida no es necesariamente tan tranquila como él quisiera(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-humor" title="Programas de humor">Programas de humor </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Calle13.sp">
+<title lang="es">
+Ley y Orden: Unidad de Víctimas Especiales - Disecciones diabólicas <span> - T17.E1 </span>
+</title>
+<desc lang="es">
+Rollins encarcela al asesino en serie Dr. Gregory Yates, pero aparece un nuevo cadáver que parece haber sido asesinado con el mismo modus operandi que empleaba Yates. En respuesta, Gregory Yates hace una impactante acusación contra el médico forense de Manhattan(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Calle13.sp">
+<title lang="es">
+Ley y Orden: Unidad de Víctimas Especiales - Patología criminal <span> - T17.E2 </span>
+</title>
+<desc lang="es">
+La Unidad de víctimas especiales intenta destapar los secretos que esconde el médico forense de Manhattan, Carl Rudrick. Un conocido del Dr. Yates será la figura clave que ayude a resolver el caso(n)
+</desc>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Calle13.sp">
+<title lang="es">
+Ley y Orden: Unidad de Víctimas Especiales - Camaleón <span> - T4.E1 </span>
+</title>
+<desc lang="es">
+La unidad de víctimas especiales de la policía de Nueva York es la que se encarga de los casos más peligrosos de la ciudad. Ellos son los responsables de atrapar y procesar a todo tipo de delincuentes. El supervisor de la unidad es el Capitán Cragen, un hombre duro, pero a la vez reflexivo. El equipo de la unidad está formado por los experimentados Elliot Stabler y Olivia Benson, que son pareja; John Munch, un sarcástico y bromista policía; el detective Brian Cassidy, admirador de Munich, y Monique Jeffries, una joven afroamericana, que es el miembro más agresivo de la unidad.En 1990, la cadena NBC estrenó ''Ley y orden'' con considerable éxito. ''Unidad de víctimas especiales'', creado en 1999, se convirtió en el primero de los cinco 'spin-off' de la serie. Esta nueva producción retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. Aún así, hay pequeños guiños entre las dos series cuando los personajes de la primera aparecen en esta segunda de forma esporádica o en un papel secundario. Al frente del reparto de la nueva serie aparecen Christopher Meloni y Mariska Hargitay, dos actores que se han especializado en telefilmes y series(n)
+</desc>
+<date>1999</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Calle13.sp">
+<title lang="es">
+Ley y Orden: Unidad de Víctimas Especiales - Engaño <span> - T4.E2 </span>
+</title>
+<desc lang="es">
+La unidad de víctimas especiales de la policía de Nueva York es la que se encarga de los casos más peligrosos de la ciudad. Ellos son los responsables de atrapar y procesar a todo tipo de delincuentes. El supervisor de la unidad es el Capitán Cragen, un hombre duro, pero a la vez reflexivo. El equipo de la unidad está formado por los experimentados Elliot Stabler y Olivia Benson, que son pareja; John Munch, un sarcástico y bromista policía; el detective Brian Cassidy, admirador de Munich, y Monique Jeffries, una joven afroamericana, que es el miembro más agresivo de la unidad.En 1990, la cadena NBC estrenó ''Ley y orden'' con considerable éxito. ''Unidad de víctimas especiales'', creado en 1999, se convirtió en el primero de los cinco 'spin-off' de la serie. Esta nueva producción retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. Aún así, hay pequeños guiños entre las dos series cuando los personajes de la primera aparecen en esta segunda de forma esporádica o en un papel secundario. Al frente del reparto de la nueva serie aparecen Christopher Meloni y Mariska Hargitay, dos actores que se han especializado en telefilmes y series(n)
+</desc>
+<date>1999</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="Calle13.sp">
+<title lang="es">
+Shades of Blue - Una casa dividida <span> - T2.E7 </span>
+</title>
+<desc lang="es">
+Tras la valiente confesión de Harlee de que ha estado informando al FBI, sus compañeros no saben cómo afrontar su traición y la de Wozniak. Los agentes se plantean un plan desesperado para neutralizar a Bianchi(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-policiaca" title="Series policiacas extranjeras">Series policiacas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CosmopolitanHD.es">
+<title lang="es">Expediente X - Lázaro <span> - T1.E15 </span></title>
+<desc lang="es">
+Durante una emboscada a un ladrón de bancos llamado Warren James Dupre, el Agente Jack Willis, es herido de muerte por el criminal, quien luego recibe un disparo de Scully. Willis es un antiguo amigo de Scully, y ella hace todo lo posible por salvarlo. Tras el tiroteo, ambos son llevados al hospital donde el asesino muere en el quirófano y Willis es devuelto a la vida milagrosamente por los médicos.Cuando el agente Willis se recupera, empieza a actuar de forma extraña, conducido por la personalidad de Warren James. En primer lugar se dirige a la morgue y roba el anillo de matrimonio del cadáver del asaltante y luego escapa. Mulder desconfía de Jack y Scully trata de defenderlo. Las intuiciones de Mulder se confirman cuando el nuevo Jack Willis hace desaparecer las pruebas encontradas por Mulder y convence a Sxully para que le ayude a encontrar a la posible la cómplice del asaltante, una mujer llamada Lula Phillips(n)
+</desc>
+<credits>
+<director>David Nutter</director>
+<writer>Alex Gansa</writer>
+<writer>Howard Gordon</writer>
+</credits>
+<date>1994</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-suspense" title="Series extranjeras de suspense">Series extranjeras de suspense </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CosmopolitanHD.es">
+<title lang="es">Great News - Episodio 6 <span> - T2.E6 </span></title>
+<desc lang="es">
+Jeremy (invitado especial Reid Scott) invita a Katie a hacer algunos reportajes. Carol está sospechosa y secuestra a Greg para espiarlos.Chuck encuentra Carvell (invitado especial Rashad Jennings), el novio de Portia, con el cual tiene una extraña amistad(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>N</country>
+<country>A</country>
+<episode-num system="onscreen">S2 E6</episode-num>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CosmopolitanHD.es">
+<title lang="es">
+We love Tamara - Tamara & friends <span> - T1.E6 </span>
+</title>
+<desc lang="es">
+¿Con quién comparte Tamara su día a día? En este episodio la veremos disfrutar de una deliciosa mañana de compras por Madrid. Además, acompañada de su mejor amiga Fabrizia, se toma un vino en el clásico mercado de San Miguel. Más tarde se reúne para comer con Estefanía Raventós, jefa de prensa en la firma de moda Adolfo Domínguez y con Adriana Domínguez, hija del propio Adolfo Domínguez(n)
+</desc>
+<date>2013</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/programas/programas-entretenimiento-tele-realidad" title="Programas de telerealidad">Programas de telerealidad </a>
+</category>
+<country>España</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CosmopolitanHD.es">
+<title lang="es">Great News - Episodio 5 <span> - T2.E5 </span></title>
+<desc lang="es">
+Katie se da cuenta de que mientras ha estado trabajando en MMN, sus amigos, incluyendo a Jessica, se casaron, tuvieron hijos y compraron casa en Nueva Jersey. Bajo presión para impresionarlos con su magnífico estilo de vida en la ciudad de Nueva York, tiene la suerte de ir a una fiesta de Halloween con Portia. En la redacción, Chuck tiene que usar en su espectáculo una nueva pantalla inteligente; intentado llevar a cabo esta tarea aparentemente imposible, trata de convencer Carol de que está poseído(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>N</country>
+<country>A</country>
+<episode-num system="onscreen">S2 E5</episode-num>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="CosmopolitanHD.es">
+<title lang="es">Great News - Episodio 6 <span> - T2.E6 </span></title>
+<desc lang="es">
+Jeremy (invitado especial Reid Scott) invita a Katie a hacer algunos reportajes. Carol está sospechosa y secuestra a Greg para espiarlos.Chuck encuentra Carvell (invitado especial Rashad Jennings), el novio de Portia, con el cual tiene una extraña amistad(n)
+</desc>
+<date>2017</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
+<country>N</country>
+<country>A</country>
+<episode-num system="onscreen">S2 E6</episode-num>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AMC.es">
+<title lang="es">No serás un extraño <span> </span></title>
+<desc lang="es">
+Un estudiante de medicina sólo tiene una ambición, acabar la carrera. Pero no consigue el dinero necesario. A punto de ser expulsado, se casa con una enfermera locamente enamorada de él, sólo para aprovechar sus ahorros. Especie de homenaje a la profesión médica, inspirado en un best-seller de Morton Thompson, de gran popularidad en la época. La historia explica las complejas y tirantes relaciones entre dos profesionales de la medicina, en cuanto anteponen el interés por su profesión por encima de todo lo demás. Reparto de lujo, encabezado por Olivia de Havilland, Robert Mitchum y Frank Sinatra, para esta película del productor y director Stanley Kramer, con la que debutó como realizador. Pese a no ser la película más famosa de ninguno de los citados, lo cierto es que ''No serás un extraño'' mantiene en todo momento la firmeza narrativa del Hollywood clásico(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Stanley Kramer">Stanley Kramer</span>
+</director>
+<writer>Edna Anhalt</writer>
+<writer>Edward Anhalt</writer>
+<writer>Morton Thompson</writer>
+<producer>Stanley Kramer</producer>
+<composer>George Antheil</composer>
+<composer>Buddy Kaye</composer>
+</credits>
+<date>1955</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/dramas" title="Dramas">Dramas </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AMC.es">
+<title lang="es">Coffy <span> </span></title>
+<desc lang="es">
+La hermana pequeña de Coffy, que cuenta con tan sólo 11 años, ha sido intoxicada con heroína de mala calidad. Entonces, por las noches, Coffy cuelga su uniforme de enfermera y, tomándose la justicia por su mano, decide acabar con todos los narcotraficantes que pueda.Junto a ''Foxy Brown'', este thriller' de bajo presupuesto, es una de las películas más famosas de Pam Grier. Ambos filmes estructuran su argumento entorno a la venganza y se incluyen dentro del subgénero conocido como blaxploitation': cine de acción de estética muy determinada, hecho por afro-americanos y destinado también a público afro-americano. La voluptuosa Pam Grier era una de las estrellas de este tipo de cine y de hecho, su presencia y su carisma son uno de los puntos fuertes del filme.El director de ''Coffy'' es Jack Hill, maestro del cine de acción de serie B que utiliza una de las fórmulas que más bien funcionan con el público, la mezcla de sexo y violencia(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jack Hill">Jack Hill</span>
+</director>
+<writer>Jack Hill</writer>
+<producer>Samuel Z. Arkoff</producer>
+<producer>Robert Papazian</producer>
+<composer>Roy Ayers</composer>
+</credits>
+<date>1973</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/dramas" title="Dramas">Dramas </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+18</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AMC.es">
+<title lang="es">Lo mejor para ella <span> </span></title>
+<desc lang="es">
+Elliot Anderson acaba de quedarse viudo y, además, debe cuidar de su nieta mestiza. La situación se complica cuando aparece Rowena, la abuela paterna, quien reclama judicialmente la custodia de la niña.Mike Binder (''En algún lugar de la memoria'') dirige y escribe esta cinta melodramática con trasfondo racial, en el que un hombre blanco se enfrenta en los juzgados a una mujer negra por la custodia de la pequeña Eloise. La película destaca por un acertado elenco de actores, y permite disfrutar del duelo entre dos oscarizados intérpretes: Kevin Costner (''Bailando con lobos'') y Octavia Spencer (''Criadas y señoras''). En su segundo largometraje, Jillian Estell (''So This Is Christmas'') encarna a la nieta de ambos.Cabe destacar que Costner, quien ya había trabajado bajo la dirección de Binder en ''Más allá del odio'', financió personalmente el filme después de quedar profundamente conmovido al leer el guion(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Mike Binder">Mike Binder</span>
+</director>
+<writer>Mike Binder</writer>
+</credits>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/dramas" title="Dramas">Dramas </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AMC.es">
+<title lang="es">Ithaca <span> </span></title>
+<desc lang="es">
+El joven de 14 años Homer Macauley está decidido a ser el mensajero de telegramas más rápido sobre una bicicleta que jamás se haya visto. Su hermano mayor fue a luchar en la guerra, dejando a Homer al cuidado de su madre viuda, y sus hermanos. Y así es como durante el verano de 1942 el joven Homer reparte mensajes de amor, esperanza y muerte a la buena gente de Ithaca.Meg Ryan (''Algo para recordar'', ''Cuando Harry encontró a Sally'') debuta en la dirección con este drama estadounidense y basado en la novela ganadora del premio Pulitzer en 1943, ''La comedia humana'' de William Saroyan. La película narra la historia de Homer, un joven de 14 años que, durante la Segunda Guerra Mundial, reparte cartas mientras espera la que le anuncie el regreso de su hermano de la guerra.El célebre Tom Hanks (''El código Da Vinci'', ''Forrest Gump''), la propia Ryan, Sam Sephard (''Black Hawk derribado'', ''Elegidos para la gloria'') y Hamish Linklater (''Los cuatro fantásticos'', ''Las aventuras de Christine'') encabezan el reparto(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Meg Ryan">Meg Ryan</span>
+</director>
+</credits>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/dramas" title="Dramas">Dramas </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AMC.es">
+<title lang="es">Comando War Pigs <span> </span></title>
+<desc lang="es">
+El capitán del ejército estadounidense Jack Wosick es degradado a teniente tras una desastrosa misión en la que solo obedecía órdenes. El coronel Redding le ofrece un trato: limpiar su nombre y restituirle su rango a cambio de dirigir una peligrosa misión tras las líneas enemigas. Con la ayuda del capitán Hans deberá́ liderar y ganarse el respeto de los hombres que han puesto a sus órdenes: el Comando War Pigs.Un filme dirigido por el galardonado Ryan Little (''Santos y soldados'') y escrito por Adam Emerson y Steven Luke, que lo protagonizan Dolph Lundgren (''Rocky IV''), Luke Goss (''Hellboy II: El ejército dorado''), Chuck Liddell (''Kick Ass 2: Con un par''), entre otros.La película ambientada en la II Guerra Mundial fue clasificada por la Asociación de Cinematografía de Estados Unidos como R ('restricted') por sus escenas violentas y sangrientas y por su lenguaje(n)
+</desc>
+<credits>
+<director>
+<span itemprop="director" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Ryan Little">Ryan Little</span>
+</director>
+<writer>Andrew Kightlinger</writer>
+<writer>Steven Luke</writer>
+<writer>Adam Emerson</writer>
+</credits>
+<date>2015</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/peliculas/dramas" title="Dramas">Dramas </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+16</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="FoxLife.sp">
+<title lang="es">House <span> - T5.E8 </span></title>
+<desc lang="es">
+Foreman se enfrenta a un nuevo reto: llevará él solo el caso de un niño con graves síntomas. El pequeño viene acompañado de su madre y su hermano Evan, que a pesar de ser tan pequeño se preocupa mucho de su hermano enfermo. Foreman va a cuestionarse si puede resolverlo él solo o si necesitará la ayuda de House.Paralelamente, el equipo de House tiene que enfrentarse al caso de una paciente de 16 años que trabaja en una fábrica y ha sufrido un ataque en su lugar de trabajo. La joven se ha emancipado a pesar de ser menor de edad y el equipo, especialmente Trece, deberán indagar en su vida personal y en su pasado si quieren curarla, ya que la joven va a necesitar de su familia si quiere salvarse.El episodio cuenta con la colaboración especial del joven actor Nathan Gamble, quién, a pesar de su juventud, ha participado en películas como ''El caballero oscuro'', ''La niebla'' o ''Babel''(n)
+</desc>
+<date>2008</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="FoxLife.sp">
+<title lang="es">
+The Listener - El hombre equivocado <span> - T5.E1 </span>
+</title>
+<desc lang="es">
+Toby y Dev deben investigar a un asesino en serie que deja serpientes vivas junto a sus víctimas. Mientras tanto, Michelle trata de disfrutar de su permiso de maternidad y de su marido Adam. Pero pronto deberá volver al IIB para salvar su reputación profesional ya que pondrán en duda que haya detenido a la persona correcta(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-drama" title="Series dramáticas extranjeras">Series dramáticas extranjeras </a>
+</category>
+<country>Canadá</country>
+<rating system="ES">
+<value>+12</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="FoxLife.sp">
+<title lang="es">Single Parents - Lechuga <span> - T1.E6 </span></title>
+<desc lang="es">
+Will Cooper es un treintañero que, por ser tan sobreprotector con su hija, ya no sabe ocuparse de sí mismo. Por ello, cuando Will se une a un grupo de padres solteros, éstos tratan de demostrarle que para ser buen padre no necesita olvidarse de él ni descuidarse y deciden introducirle en el mundo de las citas. ''Single Parents'', la nueva comedia de Liz Meriwether (creadora de ''New Girl'') y J.J. Philbin (''The O.C.''), sigue a un grupo de padres solteros que se enfrentan a la dura tarea de criar a sus hijos mientras intentan iniciar nuevas relaciones. La serie, cuyo estreno norteamericano se convirtió en uno de los mejores estrenos de comedia de la temporada, está protagonizada por Taran Killan (''Saturday Night Live'') y Leighton Meester (la conocida Blair Waldorf de ''Gossip Girl''). Completan el reparto Kimrie Lewis (''Peeples''), Jake Choi (''Hawái 5.0'') y Marlow Barkley(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="FoxLife.sp">
+<title lang="es">
+Single Parents - Me llaman Doctor Biscuits <span> - T1.E7 </span>
+</title>
+<desc lang="es">
+Will Cooper es un treintañero que, por ser tan sobreprotector con su hija, ya no sabe ocuparse de sí mismo. Por ello, cuando Will se une a un grupo de padres solteros, éstos tratan de demostrarle que para ser buen padre no necesita olvidarse de él ni descuidarse(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="FoxLife.sp">
+<title lang="es">Single Parents - La bestia <span> - T1.E8 </span></title>
+<desc lang="es">
+Will Cooper es un treintañero que, por ser tan sobreprotector con su hija, ya no sabe ocuparse de sí mismo. Por ello, cuando Will se une a un grupo de padres solteros, éstos tratan de demostrarle que para ser buen padre no necesita olvidarse de él ni descuidarse(n)
+</desc>
+<date>2018</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series" title="Series">Series </a>
+</category>
+<country>Estados Unidos</country>
+<rating system="ES">
+<value>+7</value>
+</rating>
+<star-rating>
+<value>1.0</value>
+</star-rating>
+</programme>
+<programme start="20190130000000 +0100" stop="20190130000000 +0100" channel="AXNWhite.es">
+<title lang="es">
+Franklin y Bash - El amor es la droga <span> - T4.E3 </span>
+</title>
+<desc lang="es">
+Franklin y Bash representan a un taxista acusado de robar a sus pasajeras famosas(n)
+</desc>
+<date>2014</date>
+<category lang="es">
+<a href="https://sincroguia-tv.expansion.com/series/series-extranjeras-comedia" title="Series cómicas extranjeras">Series cómicas extranjeras </a>
+</category>
