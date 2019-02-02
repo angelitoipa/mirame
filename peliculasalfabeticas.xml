@@ -164,7 +164,7 @@
 <title><![CDATA[Peliculas T]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/t.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/t.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
@@ -172,7 +172,7 @@
 <title><![CDATA[Peliculas U]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/u.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/u.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
@@ -180,7 +180,7 @@
 <title><![CDATA[Peliculas V]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/alfabeticas/v.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/alfabeticas/v.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -188,7 +188,7 @@
 <title><![CDATA[Peliculas W]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/alfabeticas/w.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/alfabeticas/w.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
@@ -196,7 +196,7 @@
 <title><![CDATA[Peliculas X]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/alfabeticas/x.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/alfabeticas/x.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
@@ -204,7 +204,7 @@
 <title><![CDATA[Peliculas Y]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/alfabeticas/y.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/alfabeticas/y.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
@@ -213,7 +213,7 @@
 <title><![CDATA[Peliculas Z]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/alfabeticas/z.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/alfabeticas/z.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>    
   
@@ -222,6 +222,6 @@
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HMStream.xml]]></prev_page_url>
 
 </items>
