@@ -52,6 +52,33 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[ 1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/0yYAP_o1ECk]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://streamango.com/f/esaklpdsmcqktpmp]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+
+  <channel>
+<title><![CDATA[ 1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/ROoR5KB1lbM]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
  
  
