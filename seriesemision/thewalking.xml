@@ -994,7 +994,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[9 -  TEMPORADA 9]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/ZLHsvi1zUGU]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
