@@ -379,6 +379,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+
+ <channel>       
+<title><![CDATA[Turno de guardia ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/third_watch_tv_series-513340063-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/turno.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
 <channel>       
 <title><![CDATA[urgencias ]]></title>
