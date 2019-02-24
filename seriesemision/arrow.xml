@@ -1200,7 +1200,22 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[7x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4hytuydi5sg3]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[7x13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/iDhMUu7LDso]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
  
  
  
