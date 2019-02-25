@@ -174,7 +174,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x22]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/04DPSG0WbN8#]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
