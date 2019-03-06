@@ -100,7 +100,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel>
+<title><![CDATA[ 1x13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/ufak_tefek_cinayetler_stiletto_vendetta_tv_series-124018293-mmed.jpg/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/ggzlcBAjUP4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
