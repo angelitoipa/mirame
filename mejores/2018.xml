@@ -1160,7 +1160,14 @@
 <description><![CDATA[<img src="https://pics.filmaffinity.com/bohemian_rhapsody-748186150-mmed.jpg"/>]]>Bohemian Rhapsody es una rotunda y sonora celebración de Queen, de su música y de su extraordinario cantante Freddie Mercury, que desafió estereotipos e hizo añicos tradiciones para convertirse en uno de los showmans más queridos del mundo.</description>
 </channel>
 	
-
+<channel>
+<title><![CDATA[El mejor verano de mi vida comedia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://openload.co/f/7jg5cglZKws]]></stream_url>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_mejor_verano_de_mi_vida-275334251-mmed.jpg"/>]]>Un padre en problemas económicos lleva a su hijo de vacaciones mientras intenta solucionar su vida.</description>
+</channel>
 	
 	
 	
