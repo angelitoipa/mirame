@@ -230,9 +230,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[ 1x29]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/vcmuEWee5K4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
+ <channel>
+<title><![CDATA[ 1x30]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/1Jiz_7pRdDU]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision.xml]]></prev_page_url>
