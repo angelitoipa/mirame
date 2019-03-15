@@ -263,6 +263,34 @@
 </channel>
  
  
+ <channel>
+<title><![CDATA[ 1x33]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/JlDajjPyG-Q]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 1x34]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/vYgBzbvozeY]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 1x35]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/kaToNIL86v4#]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
  
  
  
