@@ -16,13 +16,7 @@
 
 
  
- <channel>       
-<title><![CDATA[Arrow  ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/arrow_9d1280qvfnn2016-03-25.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/arrow.xml ]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
 
 
@@ -49,26 +43,7 @@
  
 
  
- <channel>       
-<title><![CDATA[Banshee ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/banshee_udgrj6i1zlv2016-08-19.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/bansheet4.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
- 
- 
-
-  
- 
- <channel>      
-<title><![CDATA[Black mirror ]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/blackmirror.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  <channel>      
 <title><![CDATA[Blacklist]]></title> 
@@ -164,13 +139,7 @@
  
  
 
- <channel>       
-<title><![CDATA[ Fear the walking dead ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fear-the-walking-dead_alyh9yu412l2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/fearwalking.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  
@@ -241,13 +210,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>      
-<title><![CDATA[ Los 100 ]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/los-100_3gp7520kh6s2016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/los100.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
 <channel>      
 <title><![CDATA[ Ncis:los angeles]]></title> 
@@ -278,13 +241,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>      
-<title><![CDATA[Prison Break ]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/prison-break_iusvs2mad9c2016-03-24.jpg"/>Prison Break, tambiÃ©n conocida como Prison break, en busca de la verdad en HispanoamÃ©rica, fue una serie de televisiÃ³n dramÃ¡tica estadounidense que estrenÃ³ la cadena norteamericana Fox el 29 de agosto de 2005 y terminÃ³ el 24 de mayo de 2009 en su cuarta temporada (los dos episodios finales fueron editados directamente al DVD en EE. UU. el 21 de julio, pero el 24 de mayo fueron estrenados por una televisiÃ³n israelÃ­). La trama de la serie gira en torno a un hombre sentenciado a la pena de muerte y el elaborado plan de su hermano para salvarlo de la misma. Fue creada por Paul Scheuring y producida por Adelstein-Parouse Productions en asociaciÃ³n con Original Television y 20th Century Fox Television. La originalidad y la calidad de la serie la ha hecho merecedora de nominaciones a distintos premios como los Emmy y los Globo de Oro. ]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/Prison%20Break%20T5]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  <channel>       
 <title><![CDATA[Riverdale]]></title>
@@ -413,13 +370,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[Vis a Vis ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/bb3d42154c4e9deeebf89a50da817b12.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/visavis.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Vikingos]]></title>
