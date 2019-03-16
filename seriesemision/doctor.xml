@@ -247,13 +247,37 @@
 <buffer_kb>20480</buffer_kb>
 </channel> 
  
+<channel>
+<title><![CDATA[13 T2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel> 
  
+ <channel>
+<title><![CDATA[14 T2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/lG8XkEnAON4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel> 
  
+ <channel>
+<title><![CDATA[15 T2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/vFG3MKPuGuE]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel> 
  
- 
- 
- 
- 
+ <channel>
+<title><![CDATA[16 T2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/DNj1mQFdVuE]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel> 
  
  
  
