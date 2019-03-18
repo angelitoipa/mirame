@@ -210,7 +210,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>      
+<title><![CDATA[ Los 100 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/los-100_3gp7520kh6s2016-03-24.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/los100.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
+ 
+ 
+ 
+ 
  
 <channel>      
 <title><![CDATA[ Ncis:los angeles]]></title> 
@@ -350,14 +361,7 @@
  
  
  
-<channel>       
-<title><![CDATA[urgencias ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic88/132db806c777f113dba2613f390f4b1b.gif">]]>Urgencias fue una serie de television producida en Estados Unidos por la cadena NBC. Tiene un perfil dramatico. Fue creada por el novelista Michael Crichton. Trata acerca de lo que ocurre en la sala de urgencias del hospital ficticio County General en Cook County, Chicago, Illinois, y de la compleja vida personal de los medicos que trabajan en ella.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/urgencias.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+
  
  
  
