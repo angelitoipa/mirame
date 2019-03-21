@@ -172,7 +172,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+  <channel>
+<title><![CDATA[ 1x24]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/ufak_tefek_cinayetler_stiletto_vendetta_tv_series-124018293-mmed.jpg/>]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/FlZmJoaDE6xM5Iy9g8jg0xdIi8ivMiZP/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_1_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
