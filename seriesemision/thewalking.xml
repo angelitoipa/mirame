@@ -1026,6 +1026,25 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[13 -  TEMPORADA 9]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/feab62x119ez]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[14 -  TEMPORADA 9]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/h82m8s1dey97]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
