@@ -11,7 +11,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-  
+<channel>
+<title><![CDATA[The Dirt 2019 drama]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://openload.co/f/R4e_NDp3S_Y]]></stream_url>
+<description><![CDATA[<img src="http://i.picasion.com/pic89/372a2cea7def339ecaec11c7874e2cae.gif"/>]]>En esta cruda biografia basada en el libro superventas de Motley Crue, cuatro inadaptados de Los Angeles disfrutan de grandes exitos y sufren las desgracias mas atroces.</description>
+</channel>
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
