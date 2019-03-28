@@ -385,6 +385,18 @@
 </channel>
  
 
+ <channel>       
+<title><![CDATA[Yo soy betty la fea]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/yo_soy_betty_la_fea_tv_series-644572404-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/betty.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
 
 </items>
