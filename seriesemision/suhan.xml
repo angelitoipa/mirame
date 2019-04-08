@@ -442,7 +442,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[pajaro]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/JseDRsaDE6XQLop0mSgdVF2gRcgmr5Rg/,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOmY1OjBmO3k_w5,DOcJ-FxaFrRg4gtDEwOm84OjBmO-rnta,DOcJ-FxaFrRg4gtDEwOjEwYjpnbTsTiE,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
