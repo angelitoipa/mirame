@@ -148,7 +148,7 @@
  <channel>       
 <title><![CDATA[Hawai 5.0 ]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://alphamotionperformance.com/img/portada/170x243/hawai-50_e4beyolgnmk2016-03-24.jpg">Hawaii Five-O es una versiÃ³n moderna de la recordada serie de los aÃ±os sesenta sobre una divisiÃ³n especial de la policÃ­a encargada de terminar con el crimen en Hawaii. En esta nueva versiÃ³n seguimos al detective Steve McGarrett (Alex OâLoughlin), un ex-oficial de la marina convertido en policÃ­a ]]></description>
+<description><![CDATA[<img src="http://gnula.biz/img/portada/170x243/hawai-50_e4beyolgnmk2016-03-24.jpg">Hawaii Five-O es una versiÃ³n moderna de la recordada serie de los aÃ±os sesenta sobre una divisiÃ³n especial de la policÃ­a encargada de terminar con el crimen en Hawaii. En esta nueva versiÃ³n seguimos al detective Steve McGarrett (Alex OâLoughlin), un ex-oficial de la marina convertido en policÃ­a ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/hawai.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -179,11 +179,20 @@
 <channel>       
 <title><![CDATA[La casa de papel ]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://alphamotionperformance.com/img/portada/170x243/la-casa-de-papel_q8nai4ocohx2017-05-02.jpg"> ]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_casa_de_papel_tv_series-881509276-mmed.jpg"> ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/casapapel.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>       
+<title><![CDATA[La caza de monteperdido ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_caza_monteperdido_tv_series-384669852-mmed.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/lacaza.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 
   <channel>       
 <title><![CDATA[La verdad]]></title>
@@ -391,6 +400,6 @@
  
  
  
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HMStream.xml]]></prev_page_url>
 
 </items>
