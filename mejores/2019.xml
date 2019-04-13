@@ -39,6 +39,21 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg"/>]]>Se ha puesto precio a la cabeza de la hija de un multimillonario que tiene la intención de acabar con el mayor sindicato del crimen de la ciudad.</description>
 </channel>  
  
+ <channel>
+<title><![CDATA[El silencio 2019 terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[]]>https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt7315484_CAST_HD.mp4]]></stream_url>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUR94wGO6laVYg4MdR76sKUNZLa.jpg"/>]]>Unos seres terroríficos, que detectan a sus presas humanas por el sonido, han invadido la Tierra. Ally Andrews tiene dieciséis años y hace tres que perdió la audición.</description>
+</channel>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HMStream.xml]]></prev_page_url>
