@@ -529,7 +529,13 @@
 </channel>
 
  
- 
+ <channel>
+<title><![CDATA[8x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://media.redadn.es/series/capi/capitulo_109753.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/JueTr8x01/jue-tr%208x01.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
