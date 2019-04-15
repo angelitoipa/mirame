@@ -128,7 +128,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
- 
+<channel>       
+<title><![CDATA[El pajaro soñador]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg]]>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/pajaro.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
@@ -388,13 +394,7 @@
 </channel>
  
 
- <channel>       
-<title><![CDATA[El pajaro soñador]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg]]>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/betty.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  
