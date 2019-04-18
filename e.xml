@@ -3,6 +3,18 @@
 <playlist_name><![CDATA[Peliculas Que Empiezan Por E]]></playlist_name>
 
 <channel>
+<title><![CDATA[ El crimen de cuenca]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<stream_url><![CDATA[http://streamcloud.eu/b7u6nidh2b5z]]></stream_url>
+    <video_type>http</video_type>
+    <buffer_kb>30000</buffer_kb>
+    <thumbnail>https://pics.filmaffinity.com/el_crimen_de_cuenca-568030903-mmed.jpg"/thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_crimen_de_cuenca-568030903-mmed.jpg" />]]></description>
+</channel>
+	
+	
+	
+<channel>
 <title><![CDATA[ E.T., el extraterrestre]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <stream_url><![CDATA[https://openload.co/f/jGWDfpebErI]]></stream_url>
