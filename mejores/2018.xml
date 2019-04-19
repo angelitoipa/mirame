@@ -1215,15 +1215,21 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9bLYgkgppdsyGaI4uSrZedBKpA.jpg"/>]]>En la era de la Depresión de Londres, un ahora crecidos Jane y Michael Banks, junto con los tres hijos de Michael, son visitados por la enigmática Mary Poppins después de la pérdida de un pariente. A través de sus habilidades mágicas únicas, y con la ayuda de su amigo Jack, ella ayuda a la familia a redescubrir la alegría y la maravilla que falta en sus vidas.</description>
 </channel>	
 	
+
 	
-	<channel>
-<title><![CDATA[Aquaman  2018 accion]]></title>
+
+		<channel>
+<title><![CDATA[Aquaman  2018     accion]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[https://www.cuevana3.co/8107/aquaman-syi1x]]></stream_url>
 <description><![CDATA[<img src="http://i.picasion.com/pic89/c956bb031b9b06928efc964f3b339212.gif"/>]]>Un icono durante mas de 70 anos, Aquaman (Jason Momoa) es el Rey de los Siete Mares. Este reacio gobernante de Atlantis se encuentra atrapado entre los constantes estragos causados al mar por los habitantes de la superficie y los atlantes buscando rebelarse. Pese a todo esta decidido a proteger el mundo entero.</description>
 </channel>	
+	
+	
+	
+	
 	
 	
 	
