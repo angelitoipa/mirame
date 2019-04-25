@@ -72,7 +72,13 @@
 </channel>
  
  
- 
+ <channel>       
+<title><![CDATA[Castle ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/original/A5WeJfWCQywYF4vJmODzSLaDhSq.jpg">Walter White es un esforzado profesor de quimica de preparatoria (secundaria, high school), padre de Walter White Jr, un joven discapacitado, y esposo de Skyler White quien presenta un incipiente embarazo. Cuando la vida ya le era bastante complicada para Walter, le diagnostican un cancer pulmonar terminal, lo que le lleva a quebrantar la ley e instalar un laboratorio de metanfetamina con su antiguo estudiante Jesse Pinkman para asi asegurar el bienestar económico de su familia cuando el ya no este.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/castle.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
