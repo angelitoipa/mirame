@@ -33,9 +33,9 @@
 </channel>
  
  <channel>       
-<title><![CDATA[Aqui no hay quien viva]]></title>
+<title><![CDATA[La que se avecina]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="">]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_que_se_avecina_tv_series-519161907-mmed.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/quienviva.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
