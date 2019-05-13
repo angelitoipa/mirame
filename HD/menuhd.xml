@@ -82,20 +82,7 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/numericas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-  
- 
-  <channel>       
-<title><![CDATA[PELICULAS INFANTILES]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/83638aad7892119a02682f1404a7b6b9.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/Infantiles.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  
-  
-  
-  
+
   
   <channel>       
 <title><![CDATA[WESTERN]]></title>
@@ -104,6 +91,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/western.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+  
+  
+   <channel>       
+<title><![CDATA[INFANTILES]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/83638aad7892119a02682f1404a7b6b9.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/Infantiles.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
