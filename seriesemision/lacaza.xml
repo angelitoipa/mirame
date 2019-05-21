@@ -62,7 +62,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+  <channel>
+<title><![CDATA[ 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_caza_monteperdido_tv_series-384669852-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/7/9/1558393804597.mp4/1558393804597-audio=64000-video=589000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
  
