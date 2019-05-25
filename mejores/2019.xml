@@ -93,7 +93,14 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyejodyk3lWncVjVhhrEkPctY9o.jpg"/>]]>Una madre preocupada por el comportamiento perturbador de su hijo, está convencida de que algo sobrenatural está transformando la vida del pequeño y de quienes lo rodean, poniéndolos en peligro.</description>
 </channel>  
  
- 
+ <channel>
+<title><![CDATA[ 2019 Extremadamente cruel, malvado y perverso  drama]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt2481498_CAST_HD.mp4]]></stream_url>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDjih117sYg3j2yypN8kUNPXGT5.jpg"/>]]>Ted Bundy fue uno de los asesinos en serie más peligroso de los años 70 pero, además de asesino fue un secuestrador, violador, ladrón, necrófilo.</description>
+</channel>  
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
