@@ -102,9 +102,23 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDjih117sYg3j2yypN8kUNPXGT5.jpg"/>]]>Ted Bundy fue uno de los asesinos en serie más peligroso de los años 70 pero, además de asesino fue un secuestrador, violador, ladrón, necrófilo.</description>
 </channel>  
  
+ <channel>
+<title><![CDATA[ 2019 I Am Mother ciencia ficcion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt6292852_CAST_HD.mp4]]></stream_url>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/eItrj5GcjvCI3oD3bIcz1A2IL9t.jpg"/>]]>Una adolescente (Rugaard) es criada es un refugio subterráneo por una madre robot que ha sido diseñada para repoblar la Tierra en caso de que se produjese una catástrofe.</description>
+</channel>  
  
- 
- 
+ <channel>
+<title><![CDATA[ 2019 ¿En Qué Piensan los Hombres? comedia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt7634968_CAST_HD.mp4]]></stream_url>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/3f0clsVYV8nDRPDi0OEcrDtYNsZ.jpg"/>]]>Una mujer que se dedica al mundo de las agencias deportivas se siente menospreciada por los hombres en un mundo que considera machista.</description>
+</channel>  
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
