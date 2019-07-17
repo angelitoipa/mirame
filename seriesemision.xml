@@ -317,6 +317,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[Señoras del hampa ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/senoras_del_h_ampa_tv_series-129182990-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/ampa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 <channel>       
 <title><![CDATA[Station 19 ]]></title>
 <logo_30x30></logo_30x30>
