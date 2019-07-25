@@ -19,10 +19,10 @@
 </channel>
  
  <channel>
-<title><![CDATA[ 17-07 blanco y negro]]></title>
+<title><![CDATA[ 24-07 blanco y negro]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
-<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/x5YWk2aTE6It-gF3fB_PDfobUlbePk2k/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/hkYnI3aTE6ysd6-TzJ5mGrGTbWTKexTG/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
@@ -643,6 +643,14 @@
 </channel>
  
  <channel>
+<title><![CDATA[1x77 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/tkZXc3aTE6B1ri8qdHXQtA3a-xpxHlsc/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
 <title><![CDATA[ ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
@@ -657,6 +665,17 @@
 <stream_url><![CDATA[]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ <channel>
+<title><![CDATA[ ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  
  
  
