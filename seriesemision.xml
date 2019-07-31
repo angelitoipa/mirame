@@ -225,6 +225,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[La travesia]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_crossing_tv_series-986703203-mmed.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/latravesia.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 <channel>       
 <title><![CDATA[Ley y orden]]></title>
 <logo_30x30></logo_30x30>
