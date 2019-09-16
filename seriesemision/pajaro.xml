@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>pajaro soñador>> Temporada </playlist_name>
+ <playlist_name>pajaro soñador-dolunay>> Temporada </playlist_name>
  
-
+<channel>
+<title><![CDATA[donulayx01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/lydHBoaTE6kB3kcXpm-DI_aTr4GgjRMm/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[donulayx02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/hndXBoaTE6N5nlv216PXxYO27Q22mUem/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
