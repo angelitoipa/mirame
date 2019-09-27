@@ -902,7 +902,7 @@
 </channel>
  
  <channel>
-<title><![CDATA[26-09--121 ]]></title>
+<title><![CDATA[26-09--122 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
 <stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/g2d2pqaTE6HMprzfrs-_Qj9aJ-pJTp0Z/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
@@ -910,6 +910,14 @@
 </channel>
  
  <channel>
+<title><![CDATA[27-09--123 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/syZXJqaTE6AQ-F6HnJhPTAWSQT5cEynO/,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_0_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
 <title><![CDATA[ ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
@@ -925,13 +933,29 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[ ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[ ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
- 
- 
- 
+ <channel>
+<title><![CDATA[ ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/erkenci_kus_tv_series-215687621-mmed.jpg">]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
