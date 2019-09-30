@@ -3,21 +3,25 @@
 <playlist_name><![CDATA[2012]]></playlist_name>
   
  
- 
- <channel>       
-<title><![CDATA[El atlas de las nubes]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/cloud_atlas-447437455-mmed.jpg"/>]]>Conjunto de varias historias que se desarrollan en el pasado, el presente y el futuro. Cada una de ellas esta contenida en la anterior, y todas estan enlazadas entre si por pequenos detalles.</description>
-<playlist_url><![CDATA[]></playlist_url>
+  <channel>
+<title><![CDATA[El atlas de las nubes ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-</channel> 
+<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/cloud_atlas-447437455-mmed.jpg"/>]]>Conjunto de varias historias que se desarrollan en el pasado, el presente y el futuro. Cada una de ellas esta contenida en la anterior, y todas estan enlazadas entre si por pequenos detalles.</description>
+</channel>  
 
  
-  
-  
-  
-  
-  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+
+ 
+ 
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HMStream.xml]]></prev_page_url>
 
 </items>
+  
+  
+  
+  
